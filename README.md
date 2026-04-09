@@ -8,4 +8,4 @@
 - https://github.com/chence/CSCN8010_Lab3.git
 
 ## Main Notebook
-- CSCN8010_Lab3.ipynb
+- Practical_Lab3.ipynb
